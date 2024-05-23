@@ -34,3 +34,5 @@ Customizable Leave Types: Support for different leave categories as per organiza
 Real-time Updates: Instant notifications and updates on leave status.
 Security and Privacy: Secure handling of sensitive employee information.
 Employee Self-Service: Allow employees to manage their leave applications and track status independently.
+
+
