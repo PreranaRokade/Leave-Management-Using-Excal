@@ -1,5 +1,5 @@
 # Leave-Management-Using-Excal
-User Interface
+
 
 Dashboard Overview: Centralized view of leave balances, upcoming leaves, and pending requests.
 Navigation Menu: Easy access to leave application forms, balances, team calendar, and reports.
@@ -35,4 +35,7 @@ Real-time Updates: Instant notifications and updates on leave status.
 Security and Privacy: Secure handling of sensitive employee information.
 Employee Self-Service: Allow employees to manage their leave applications and track status independently.
 
+
+####Screenshot
+![leave excel](https://github.com/PreranaRokade/Leave-Management-Using-Excal/assets/168730729/93fc5bb6-e6a5-4c51-a1c5-9ec7eeebd6b2)
 
